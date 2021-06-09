@@ -11,7 +11,7 @@
 	<groupId>com.devsuperior</groupId>
 	<artifactId>dslearn</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dslearn</name>
+	<name>dslearn</name> 
 	<description>DSLearn Bootcamp</description>
 
 	<properties>
